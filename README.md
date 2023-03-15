@@ -11,3 +11,4 @@
 발표 동영상<br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ddOQV9Bij1A" title="90-2000년대 한국 발라드의 사랑노래 - 달콤한 멜로디와 가사로 전하는 사랑 이야기 - 이별과 사랑을 다룬 한국 발라드 모음 - 가슴 아픈 이야기를 전하는 노래들" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #취미
+#추가
