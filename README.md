@@ -1,6 +1,6 @@
 # Hello-world
 만나서반가워<br>
-<img src="누군지까먹음.jpg" width="300 height="300"/><br>
+<img src="누군지까먹음.jpg" width="300 height="300"><br>
 
 #내가 수강한 과목
 
